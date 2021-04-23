@@ -1,0 +1,16 @@
+.header__language{
+    color: #fff;
+    list-style: none;
+    margin:0 18px 0 0;
+    padding: 0;
+    border:olivedrab solid 2px;
+    font-family: "Inter", "sans-serif";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 1.5;
+}
+
+.header__language:last-child{
+    margin:0;
+}

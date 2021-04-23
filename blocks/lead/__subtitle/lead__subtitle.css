@@ -1,0 +1,9 @@
+.lead__subtitle{
+    font-family: "Inter", "sans-serif";
+    font-size: 30px;
+    line-height: 1.2;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    max-width: 620px;
+    margin: 0 auto 64px auto;
+}

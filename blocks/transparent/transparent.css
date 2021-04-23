@@ -1,0 +1,10 @@
+.transparent {
+    opacity: 1;
+    transition-property: opacity;
+    transition-duration: 0.3s;
+    transition-timing-function: linear;
+}
+
+.transparent:hover {
+    opacity: 0.8;
+}

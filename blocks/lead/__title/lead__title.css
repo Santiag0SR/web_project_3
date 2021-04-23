@@ -1,0 +1,13 @@
+.lead__title{
+    font-family: "Inter", "sans serif";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 96px;
+    line-height: 1.2;
+    max-width: 720px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    border: steelblue 2px solid;
+    margin: 58px auto 32px auto;
+}

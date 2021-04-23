@@ -1,0 +1,13 @@
+.cover__title{
+    font-family: "Inter", "sans-serif";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 1.2;
+    text-align: center;
+    color: #FFFDFD;
+    margin: 0 0 32px 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}

@@ -1,0 +1,16 @@
+.place__text {
+  margin: 0;
+  padding-bottom:27px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #ffffff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.place__text:last-child{
+    padding-bottom: 0;
+}
