@@ -1,4 +1,11 @@
 .intro__container{
     max-width: 690px;
-    border: oldlace 2px solid;
+}
+
+
+@media screen and (max-width: 768px) {
+    .intro__container{
+        max-width:none;
+        padding: 0 24px;
+    }
 }

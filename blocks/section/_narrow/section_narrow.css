@@ -1,5 +1,21 @@
 .section_narrow{
-    max-width:984px;
     padding: 0 148px;
+}
 
+@media screen and (max-width: 1024px) {
+    .section_narrow {
+        padding: 0 48px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .section_narrow {
+        padding: 0 24px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .section_narrow {
+        padding: 0 16px;
+    }
 }

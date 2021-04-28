@@ -3,5 +3,12 @@
     padding-top: 114px;
     padding-bottom: 92px;
     color: white;
-    border: red 2px solid;
+}
+
+@media screen and (max-width: 320px) {
+    .intro {
+        padding-top: 64px;
+        padding-bottom: 64px;
+
+    }
 }
