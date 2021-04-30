@@ -1,20 +1,19 @@
 # Project 3: From Portland to Portland
 
-### Overview
-* Intro
-* Figma
-* Images
+## Intro
 
-**Intro**
+"Web Project" 3 is a project of the course with Practicum by Yandex (https://practicum.yandex.com/) to be a Web Developer.
 
-This is a project about traveling across the US. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+## Description
 
-**Figma**
+The purpose of this project is to create a website fully responsive in all device sizes
 
-* [Link to the project on Figma](https://www.figma.com/file/AtbNbstbxWPcMqvF061V0R/Sprint-3%3A-From-Portland-to-Portland-%7C-desktop-%2B-mobile?node-id=0%3A1)
+![Screenshot_web_project_3](./images/Screenshot_web_project_3.png)
 
-**Images**
+Check out my work: 
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
+## Technologies and Techniques
 
-Good luck and have fun!
+We used CSS and HTML language to create the webpage and use diferent expresions like @media to make it responsive in a series of breakpoints.
+
+We also organize the code so it is BEM compliant.

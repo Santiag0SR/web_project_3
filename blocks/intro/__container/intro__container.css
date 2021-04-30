@@ -1,11 +1,10 @@
-.intro__container{
-    max-width: 690px;
+.intro__container {
+  max-width: 690px;
 }
 
-
 @media screen and (max-width: 768px) {
-    .intro__container{
-        max-width:none;
-        padding: 0 24px;
-    }
+  .intro__container {
+    max-width: none;
+    padding: 0 24px;
+  }
 }

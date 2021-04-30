@@ -1,13 +1,13 @@
-.place__link-type{
-    margin:0;
-    padding:0 0 4px 0;
-    font-family: "Inter", "sans-serif";
-    font-style: normal;
-    font-weight: normal;
-    font-size: 12px;
-    line-height: 1.2;
-    letter-spacing: 0.2em;
-    color: #AAAAAA;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+.place__link-type {
+  margin: 0;
+  padding: 0 0 4px 0;
+  font-family: "Inter", "sans-serif";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 1.2;
+  letter-spacing: 0.2em;
+  color: #aaaaaa;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }

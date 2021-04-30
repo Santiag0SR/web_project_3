@@ -1,6 +1,6 @@
 .place__text {
   margin: 0;
-  padding-bottom:27px;
+  padding-bottom: 27px;
   font-family: Inter;
   font-style: normal;
   font-weight: normal;
@@ -11,12 +11,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.place__text:last-child{
-    padding-bottom: 0;
+.place__text:last-child {
+  padding-bottom: 0;
 }
 
 @media screen and (max-width: 768px) {
   .place__text {
-      font-size: 16px;
+    font-size: 16px;
   }
 }

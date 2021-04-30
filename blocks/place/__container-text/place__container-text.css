@@ -1,10 +1,9 @@
-.place__container-text{
-    padding: 0;
-
+.place__container-text {
+  padding: 0;
 }
 
 @media screen and (max-width: 320px) {
-    .place__container-text {
-        padding: 0 16px;
-    }
+  .place__container-text {
+    padding: 0 16px;
   }
+}
