@@ -10,7 +10,7 @@ The purpose of this project is to create a website fully responsive in all devic
 
 ![Screenshot_web_project_3](./images/Screenshot_web_project_3.png)
 
-Check out my work: 
+Check out my work: https://santiag0sr.github.io/web_project_3/index.html
 
 ## Technologies and Techniques
 
