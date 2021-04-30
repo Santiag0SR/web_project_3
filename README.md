@@ -6,7 +6,7 @@
 
 ## Description
 
-The purpose of this project is to create a website fully responsive in all device sizes
+The purpose of this project is to create a website fully responsive in all device sizes. 
 
 ![Screenshot_web_project_3](./images/Screenshot_web_project_3.png)
 
