@@ -1,3 +1,11 @@
 .cover__container {
-  position: relative;
+position:relative;
+background-image: url("../../../images/route_66.jpeg");
+background-repeat: no-repeat;
+background-size: cover;
+width:100%;
+height: auto;
+border: red 2px solid;
+
+
 }
