@@ -12,6 +12,4 @@
   transition-timing-function: linear;
 }
 
-.cover__overlay:hover {
-  background-color: rgb(42, 44, 47, 0.8);
-}
+

@@ -8,8 +8,6 @@
   color: #fffdfd;
   margin: 0 auto 32px auto;
   padding: 0;
-  min-width: 656px;
-
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -25,5 +23,6 @@
   .cover__title {
     font-size: 32px;
     margin: 0 0 16px 0;
+
   }
 }
