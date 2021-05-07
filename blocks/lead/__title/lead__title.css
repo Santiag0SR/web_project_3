@@ -1,17 +1,17 @@
 .lead__title {
   display: table;
-  font-family: "Inter", "sans serif";
+  font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
   font-weight: 900;
   font-size: 96px;
-  line-height: 1.2;
+  line-height: 104%;
   max-width: 720px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   margin: 58px auto 32px auto;
 }
 
-@media screen and (min-width: 650px) and (max-width: 740px) {
+@media screen and (max-width: 740px) {
   .lead__title {
     font-size: 70px;
     max-width: 500px;
@@ -19,7 +19,7 @@
   }
 }
 
-@media screen and (min-width: 420px) and (max-width: 650px) {
+@media screen and (max-width: 650px) {
   .lead__title {
     font-size: 45px;
     max-width: 350px;

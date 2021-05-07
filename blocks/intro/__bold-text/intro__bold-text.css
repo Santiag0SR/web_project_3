@@ -1,11 +1,9 @@
-.place__website {
+.intro__bold-text {
   font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
-  font-weight: normal;
-  font-size: 18px;
+  font-weight: bold;
+  font-size: 12px;
   line-height: 1.2;
-  text-decoration-line: underline;
-  color: #ffffff;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

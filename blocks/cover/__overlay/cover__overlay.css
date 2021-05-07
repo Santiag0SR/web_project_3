@@ -13,3 +13,6 @@
 }
 
 
+.cover__container:hover .cover__overlay {
+  background-color: rgb(42, 44, 47, 0.8);
+}

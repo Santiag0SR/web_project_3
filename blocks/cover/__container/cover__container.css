@@ -12,10 +12,6 @@
   box-sizing: border-box;
 }
 
-.cover__container:hover .cover__overlay {
-  background-color: rgb(42, 44, 47, 0.8);
-}
-
 @media screen and (max-width: 1024px) {
   .cover__container {
     min-height: 640px;
@@ -28,7 +24,7 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 420px) {
   .cover__container {
     min-height: 200px;
   }
