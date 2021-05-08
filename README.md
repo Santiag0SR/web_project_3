@@ -12,6 +12,8 @@ The purpose of this project is to create a website fully responsive in all devic
 
 Check out my work: https://santiag0sr.github.io/web_project_3/index.html
 
+The project has been reviewed by Marina Lukianova :)
+
 ## Technologies and Techniques
 
 We used CSS and HTML language to create the webpage and use diferent expresions like @media to make it responsive in a series of breakpoints.

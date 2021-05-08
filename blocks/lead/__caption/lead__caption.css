@@ -10,4 +10,23 @@
   text-transform: uppercase;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  padding: 0 148px;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__caption{
+    padding: 0 48px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .lead__caption {
+    padding: 0 24px;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .lead__caption {
+    padding: 0 16px;
+  }
 }
